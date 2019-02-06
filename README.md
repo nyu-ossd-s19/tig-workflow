@@ -5,3 +5,4 @@ Things Learned From Creating a REPO:
 - Ability to chose to automatically add gitignore 
 Things learned from Forking and Cloning a REPO:
 - The ability to add upstream
+- How to clone and fork a REPO
